@@ -16,5 +16,17 @@ namespace zxc
         {
             InitializeComponent();
         }
+
+        private void textBox1_KeyPress(object sender,
+            KeyPressEventArgs e)
+        {
+            if ((e.KeyChar < 'А' || e.KeyChar > 'я') && 
+                e.KeyChar != (char)Keys.Back 
+                && e.KeyChar != 'ё'
+                && e.KeyChar != 'Ё')
+            {
+                e.Handled = true;
+            }
+        }
     }
 }

@@ -1,0 +1,10 @@
+D:\zxc\zxc\zxc\bin\Debug\zxc.exe.config
+D:\zxc\zxc\zxc\bin\Debug\zxc.exe
+D:\zxc\zxc\zxc\bin\Debug\zxc.pdb
+D:\zxc\zxc\zxc\obj\Debug\zxc.csprojAssemblyReference.cache
+D:\zxc\zxc\zxc\obj\Debug\zxc.Form1.resources
+D:\zxc\zxc\zxc\obj\Debug\zxc.Properties.Resources.resources
+D:\zxc\zxc\zxc\obj\Debug\zxc.csproj.GenerateResource.cache
+D:\zxc\zxc\zxc\obj\Debug\zxc.csproj.CoreCompileInputs.cache
+D:\zxc\zxc\zxc\obj\Debug\zxc.exe
+D:\zxc\zxc\zxc\obj\Debug\zxc.pdb
